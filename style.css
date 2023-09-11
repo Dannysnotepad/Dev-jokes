@@ -1,0 +1,35 @@
+body {
+    background-color: #fab22e;
+    overflow: none;
+}
+.body{
+  background-color: black;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 100px;
+  border-radius: 20px;
+  border-radius: 5px;
+}
+span{
+  font-size: 90px;
+  margin-top: 0px;
+}
+#jokeArea{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#generate{
+  background-color: #fab22e;
+  border: none;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 170px;
+  height: 40px;
+}
